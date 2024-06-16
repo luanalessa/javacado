@@ -28,7 +28,7 @@
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/javacado.git
+    git clone https://github.com/luanalessa/javacado.git
     ```
 
 2. **Navigate to the project directory:**
