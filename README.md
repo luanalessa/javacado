@@ -40,7 +40,7 @@
 
 <br>
 
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! If you have a fun idea for a new feature or an improvement, feel free to fork the repository and submit a pull request. Let's make learning as smooth as avocado together!
 
 <br> 
