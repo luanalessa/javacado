@@ -1,15 +1,6 @@
 package dataStructures;
 
-public class LinkedList {
-    // Inner Node class
-    private class Node {
-        String data;
-        Node next;
-
-        Node(String data) {
-            this.data = data;
-        }
-    }
+public class LinkedList{ 
 
     // Fields for head, tail, and length of the list
     private Node head;
